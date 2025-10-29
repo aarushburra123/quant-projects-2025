@@ -1,7 +1,9 @@
 # quant-projects-2025
 Title: quant-projects-2025
 
-About: “Public portfolio of quant projects: factor backtester, options pricer, microstructure simulator.”​
+About: Public portfolio of quant projects: factor backtester, options pricer, microstructure simulator. 
+
+Topics: quant, quantitative-finance, backtesting, options, yfinance.
 
 Install:
 

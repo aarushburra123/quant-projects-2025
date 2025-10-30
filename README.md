@@ -17,6 +17,10 @@ jupyter notebook notebooks/00_setup.ipynb
 
 Runs and writes results/spy_close.png
 
+## Projects:
+- [notebooks/00_setup.ipynb](notebooks/00_setup.ipynb) — environment check
+- [notebooks/01_spy_plot.ipynb](notebooks/01_spy_plot.ipynb) — SPY close price plot
+
 Repo structure:
 
 src/ — library code

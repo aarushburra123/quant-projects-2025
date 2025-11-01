@@ -19,7 +19,8 @@ Runs and writes results/spy_close.png
 
 ## Projects:
 - [notebooks/00_setup.ipynb](notebooks/00_setup.ipynb) — environment check
-- [notebooks/01_spy_plot.ipynb](notebooks/01_spy_plot.ipynb) — SPY plot, monthly returns, Sharpe, [png](results/spy_plot.png)
+- [notebooks/01_spy_plot.ipynb](notebooks/01_spy_plot.ipynb) — SPY plot, monthly returns Sharpe, [png](results/spy_plot.png)
+- [notebooks/02_factor_backtest.ipynb](notebooks/02_factor_backtest.ipynb) — momentum prototype (top‑quintile EW), Sharpe + Max DD, png
 
 
 ## Repo structure:

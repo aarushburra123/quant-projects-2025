@@ -5,7 +5,7 @@ About: Public portfolio of quant projects: factor backtester, options pricer, mi
 
 # Topics: quant, quantitative-finance, backtesting, options, yfinance.
 
-# #Install:
+# Install:
 
 python 3.10+
 
@@ -22,7 +22,7 @@ Runs and writes results/spy_close.png
 - [notebooks/01_spy_plot.ipynb](notebooks/01_spy_plot.ipynb) — SPY plot, monthly returns, Sharpe, [png](results/spy_plot.png)
 
 
-# Repo structure:
+## Repo structure:
 
 src/ — library code
 
@@ -34,7 +34,7 @@ data/ — ignored datasets
 
 results/ — generated plots/files​
 
-# Roadmap:
+## Roadmap:
 
 Milestone 1: SPY plot (done today)
 

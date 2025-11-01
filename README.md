@@ -3,15 +3,15 @@ Title: quant-projects-2025
 
 About: Public portfolio of quant projects: factor backtester, options pricer, microstructure simulator. 
 
-Topics: quant, quantitative-finance, backtesting, options, yfinance.
+# Topics: quant, quantitative-finance, backtesting, options, yfinance.
 
-Install:
+# #Install:
 
 python 3.10+
 
 pip install yfinance pandas numpy matplotlib​
 
-Quickstart:
+# Quickstart:
 
 jupyter notebook notebooks/00_setup.ipynb
 
@@ -19,9 +19,10 @@ Runs and writes results/spy_close.png
 
 ## Projects:
 - [notebooks/00_setup.ipynb](notebooks/00_setup.ipynb) — environment check
-- [notebooks/01_spy_plot.ipynb](notebooks/01_spy_plot.ipynb) — SPY close price plot
+- [notebooks/01_spy_plot.ipynb](notebooks/01_spy_plot.ipynb) — SPY plot, monthly returns, Sharpe, [png](results/spy_plot.png)
 
-Repo structure:
+
+# Repo structure:
 
 src/ — library code
 
@@ -33,7 +34,7 @@ data/ — ignored datasets
 
 results/ — generated plots/files​
 
-Roadmap:
+# Roadmap:
 
 Milestone 1: SPY plot (done today)
 

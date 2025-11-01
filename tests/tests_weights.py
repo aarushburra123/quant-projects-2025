@@ -21,4 +21,4 @@ def test_only_top_quintile_selected():
 if __name__ == "__main__":
     test_weights_sum_to_one()
     test_only_top_quintile_selected()
-    print("All tests passed.")
+    print("All tests passed."

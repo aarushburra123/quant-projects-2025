@@ -105,7 +105,9 @@ def doubler_bettor(funds, initial_wager, wager_count, color):
     value = funds
     wager = initial_wager
     global doubler_busts
+    doubler_busts = 0
     global doubler_profits
+    doubler_profits = 0
     wX = []
     vY = []
     
